@@ -2,17 +2,23 @@
 
 A single-page **College / University Website** built using **HTML**, **CSS**, and **Font Awesome** icons. All sections are in one `index.html` file with smooth anchor navigation.
 
-## 📁 Project Structure
+📸 Website Preview
 
-```
+
+
+
+Add your project screenshot inside assets/img/ folder with the name screenshot.png
+📁 Project Structure
 singlewebpage/
 │
 ├── index.html                  # Single page (all sections)
+├── README.md
 │
 └── assets/
     ├── css/
     │   └── style1.css          # Main stylesheet
     └── img/                    # All images
+        ├── screenshot.png
         ├── meeting.png
         ├── london.png
         ├── newyork.png
