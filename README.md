@@ -4,12 +4,6 @@ A single-page **College / University Website** built using **HTML**, **CSS**, an
 
 ---
 
-## 📸 Website Preview
-
-![Eduford Website Screenshot](assets/img/screenshot/screenshot.png)
-
-> 📌 Screenshot file path: `assets/img/screenshot/screenshot.png`
-
 ### 🖼️ Section Screenshots
 
 | Section | Preview |
