@@ -10,6 +10,18 @@ A single-page **College / University Website** built using **HTML**, **CSS**, an
 
 > 📌 Screenshot file path: `assets/img/screenshot/screenshot.png`
 
+### 🖼️ Section Screenshots
+
+| Section | Preview |
+| ------- | ------- |
+| 🏠 Home | ![Home Section](assets/img/screenshot/home.png) |
+| ℹ️ About Us | ![About Section](assets/img/screenshot/about.png) |
+| 📚 Courses | ![Courses Section](assets/img/screenshot/course.png) |
+| 📝 Blog | ![Blog Section](assets/img/screenshot/blog.png) |
+| 📞 Contact | ![Contact Section](assets/img/screenshot/contact.png) |
+
+> ⚠️ Section screenshots are optional. Place them in `assets/img/screenshot/` folder if available.
+
 ---
 
 ## 📁 Project Structure
@@ -26,7 +38,12 @@ singlewebpage/
     │
     └── img/
         ├── screenshot/
-        │   └── screenshot.png
+        │   ├── screenshot.png  # Full page screenshot
+        │   ├── home.png        # Home section screenshot
+        │   ├── about.png       # About section screenshot
+        │   ├── course.png      # Course section screenshot
+        │   ├── blog.png        # Blog section screenshot
+        │   └── contact.png     # Contact section screenshot
         │
         ├── meeting.png
         ├── london.png
